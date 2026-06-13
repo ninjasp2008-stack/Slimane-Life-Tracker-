@@ -1,7 +1,7 @@
 {
-  "name": "اسم تطبيقك الكامل",
-  "short_name": "اسم مختصر",
-  "start_url": "/اسم-المستودع-نتاعك-في-جيتهاب/",
+  "name": "Slimane Life Tracker",
+  "short_name": "Life Tracker",
+  "start_url": "/Life-Tracker-/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
